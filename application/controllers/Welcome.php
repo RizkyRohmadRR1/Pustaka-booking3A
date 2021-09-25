@@ -6,7 +6,7 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		echo"<h1> Perkenalan </h1>";
-		echo"Nama  				:Rizky Rohmad Ramdhoni<br>
+		echo"Nama  			:Rizky Rohmad Ramdhoni<br>
 			Tempat Lahir 		:Kulon Progo<br>
 			Tanggal Lahir 		:11 Agustus<br>
 			Tempat Tinggal  	:Kulon Progo, DIY<br>
